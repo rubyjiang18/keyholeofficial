@@ -7,10 +7,16 @@ body {
     padding-right: 20px; 
     
 }
+
+h3 {
+    margin-left: 20px;
+  }
  
 .title {
     text-align: center;
 }
+
+
 
 .highlight {
     padding: 1.5rem;
