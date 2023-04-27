@@ -10,7 +10,11 @@ body {
 
 h3 {
     margin-left: 20px;
-  }
+}
+
+p {
+    margin-left: 20px;
+}
  
 .title {
     text-align: center;
